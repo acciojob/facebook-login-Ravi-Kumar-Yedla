@@ -11,6 +11,9 @@ body{
 	margin-top:70px;
 	display:inline-block;
 }
+.left-section>img{
+
+}
 form{
 	display:flex;
 	flex-direction:column;
